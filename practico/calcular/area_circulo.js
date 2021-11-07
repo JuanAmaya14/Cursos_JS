@@ -1,5 +1,7 @@
 var radio = 2;
 
+var PI = Math.PI
+
 
 var area = ((radio * radio)* 3.1415);
 

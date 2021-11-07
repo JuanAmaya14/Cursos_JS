@@ -1,8 +1,10 @@
-var lados = 6;
+var lado1 = 6;
 
-var base = 4;
+var lado2 = 6;
 
-var perimetro = (lados + lados + base);
+var lado3 = 4;
+
+var perimetro = (lado1 + lado2 + lado3);
 
 
 
